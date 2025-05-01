@@ -1,6 +1,6 @@
 Name,Symbol,latitude,longitude,Type,Route,Show,NA
-Carpark Of Glory,COG,-41.070372,175.2285,Roadend,SC,T
-Dobson-Marchant,DobsonMarchant,-41.049649,175.259399,Junction,SC
+COG,COG,-41.070372,175.1985,Roadend,SC,T
+Dobson-Marchant,DobsonMarchant,-41.049649,175.249399,Junction,SC
 Smith Creek Shelter,SmithCreek,-41.054332,175.278111,Hut,NA
 Marchant,Marchant,-41.0257,175.266695,Summit,SC
 Tauwharenikau Bridge,TnkBridge,-41.044422,175.285406,Junction,NA,F
@@ -8,28 +8,28 @@ Puffer Saddle,Puffer,-41.073845,175.242405,Saddle,NA,F
 Tauwharenikau - Block XVI junction,TnkXVI,-41.019529,175.310125,Junction,NA,F
 Tauwharenikau - Block XVI crossing,TnkXVILeft,-41.019594,175.311155,Waypoint,NA,F
 Marchant - Block XVI junction,MarchantXVI,-41.005466,175.292401,Junction,SC
-Omega,Omega,-40.99098,175.304933,Summit,SC,T
+Omega,Omega,-40.99098,175.304933,Summit,SC,F
 Tutuwai Left on Tauwharenikau,TtwLeft,-41.006763,175.326519,Waypoint,NA,F
 Tutuwai River Crossing,TtwRiver,-41.007249,175.328021,Waypoint,NA,F
 Tutuwai Hut,Tutuwai,-41.010302,175.325317,Hut,NA
-Reeves,Reeves,-41.016847,175.351238,Summit,NA,T
+Reeves,Reeves,-41.016847,175.351238,Summit,NA,F
 745,745,-41.01432,175.372095,Summit,NA,F
-Waiohine Gorge,Waiohine,-40.995783,175.38763,Roadend,NA,F
+WG,Waiohine,-40.995783,175.38763,Roadend,NA,T
 Cone Junction,ConeJctn,-40.986837,175.355959,Junction,NA,F
 Cone Hut Junction,ConeHutJctn,-40.986577,175.347719,Junction,SKV:CSK,F
 Cone Hut,ConeHut,-40.987291,175.345144,Hut,NA
 Bull Mound Right,BullMoundRight,-40.98956,175.344028,Junction,NA,F
 Bull Mound Left,BullMoundLeft,-40.989884,175.343685,Waypoint,NA,F
-Bull Mound,BullMound,-40.981261,175.317249,Summit,NA,T
+Bull Mound,BullMound,-40.981261,175.317249,Summit,NA,F
 Hells Gate Junction,HellsGateJunctn,-40.987031,175.304804,Junction,SC
 Dobson-Puffer Junction,DobsonPuffer,-41.070599,175.238543,Junction,SC
 Hells gate,HellsGate,-40.985586,175.301285,Saddle,SC
-Alpha Hut,AlphaHut,-40.985781,175.281973,Hut,SC,T
-Alpha Summit,Alpha,-40.985586,175.271158,Summit,SC
-Aston,Aston,-40.970803,175.260944,Summit,SC,T
+Alpha Hut,AlphaHut,-40.985781,175.281973,Hut,SC,F
+Alpha Summit,Alpha,-40.985586,175.271158,Summit,SC,F
+Aston,Aston,-40.970803,175.260944,Summit,SC,F
 Atkinson,Atkinson,-40.961594,175.276566,Summit,SC
 The Beehives,Beehives,-40.956924,175.281115,Summit,SC
-Hector,Hector,-40.951799,175.281715,Summit,SC,F
+Hector,Hector,-40.951799,175.281715,Summit,SC,T
 Winchcombe,Winchcombe,-40.947583,175.306091,Summit,NA,F
 Winchcome Biv,WinchcombeBiv,-40.949594,175.310383,Hut,NA
 Neill,Neill,-40.947907,175.330467,Summit,NA,F
@@ -42,34 +42,34 @@ Totara Flats,TotaraFlats,-40.946285,175.392008,Junction,SKV,F
 Totara Flats Hut,TotaraFlatsHut,-40.932791,175.403166,Hut,SKV,F
 Totara Creek Bridge,TotaraCreekBridge,-40.931947,175.401793,Junction,SKV,F
 Cone Ridge Junction,ConeRidgeJctn,-40.94155,175.364971,Junction,NA,F
-Neill Forks Hut,NeillForks,-40.932661,175.356302,Hut,NA,T
+Neill Forks Hut,NeillForks,-40.932661,175.356302,Hut,NA,F
 Concertina Knob,ConcertinaKnob,-40.920916,175.35038,Summit,NA,F
-Maungahuka,Maungahuka,-40.914555,175.333643,Summit,NA,T
-Tuiti & Tunui,TuitiTunui,-40.915852,175.327721,Summit,NA,T
+Maungahuka,Maungahuka,-40.914555,175.333643,Summit,NA,F
+Tuiti & Tunui,TuitiTunui,-40.915852,175.327721,Summit,NA,F
 McIntosh Junction,McIntoshJctn,-40.917507,175.318108,Junction,NA,F
 McIntosh,McIntosh,-40.920493,175.31446,Summit,NA,F
 Yeates,Yeates,-40.925944,175.310211,Summit,NA,F
 Vosseler,Vosseler,-40.927501,175.298152,Summit,NA,F
 Boyd Wilson Knob,BoydWilson,-40.931946,175.289612,Summit,NA,F
-Bridge Peak,Bridge,-40.936877,175.271587,Summit,SC
+Bridge Peak,Bridge,-40.936877,175.271587,Summit,SC,F
 Kime Hut,Kime,-40.942944,175.271716,Hut,SC,F
 Field Peak,Field,-40.944792,175.274634,Summit,SC
 Dennan,Dennan,-40.925032,175.264378,Summit,SC
 Table Top Junction,TableTopJctn,-40.917893,175.263391,Junction,SC
 Table Top,TableTop,-40.911338,175.262403,Summit,SC
-Field Hut,FieldHut,-40.9078,175.256481,Hut,SC,T
+Field Hut,FieldHut,-40.9078,175.256481,Hut,SC,F
 TirotiroKnob,Tirotiro,-40.903419,175.250516,Summit,SC
 591,591,-40.894655,175.236139,Summit,SC
-Boielles Campsite,Boielles,-40.871895,175.230732,Roadend,SC,T
-Waitewaewae,YTWW,-40.843737,175.289183,Hut,NA,T
-Shoulder Knob,ShoulderKnob,-40.824686,175.342312,Summit,NA,F
+Boielles Campsite,Boielles,-40.871895,175.230732,Roadend,SC,F
+Waitewaewae,YTWW,-40.843737,175.289183,Hut,NA,F
+Shoulder Knob,ShoulderKnob,-40.824686,175.342312,Summit,NA,T
 Junction Knob,JctnKnob,-40.827091,175.354242,Summit,NA,F
 Anderson Memorial Hut,AndersonMemHut,-40.846455,175.356131,Hut,NA
 Kahiwiroa,Kahiwiroa,-40.866333,175.359478,Summit,NA,F
-Aokaparangi,Aokaparangi,-40.88653,175.357161,Summit,NA,T
+Aokaparangi,Aokaparangi,-40.88653,175.357161,Summit,NA,F
 Aokaprangi Hut,AokaparangiHut,-40.892178,175.360508,Hut,NA
 Simpson,Simpson,-40.900164,175.337677,Summit,NA,F
-Mid Waiohine Hut,MidWaiohine,-40.874192,175.38188,Hut,NA,T
+Mid Waiohine Hut,MidWaiohine,-40.874192,175.38188,Hut,NA,F
 Isabelle,Isabelle,-40.871074,175.407286,Summit,NA,F
 Holdsworth,Holdsworth,-40.873737,175.416813,Summit,JH:CSK,T
 Jumbo,Jumbo,-40.853083,175.429602,Summit,JH:CSK,T
@@ -92,17 +92,17 @@ McGregor,McGregor,-40.833577,175.422907,Summit,CSK
 Angle Knob,AngleKnob,-40.842674,175.415955,Summit,CSK
 Aircraft Wreck,Aircraft,-40.840075,175.398359,Other,NA
 Barton Junction,BartonJctn,-40.832927,175.478439,Junction,NA
-The Pines,ThePines,-40.868074,175.493631,Roadend,NA
-Mitre Flats Hut,MitreFlats,-40.831303,175.479126,Hut,SKV
+The Pines,ThePines,-40.868074,175.493631,Roadend,NA,T
+Mitre Flats Hut,MitreFlats,-40.831303,175.479126,Hut,SKV,T
 Mitre,Mitre,-40.798022,175.457497,Summit,NA
-Girdlestone,Girdlestone,-40.796332,175.44342,Summit,NA
+Girdlestone,Girdlestone,-40.796332,175.44342,Summit,NA,T
 Adkin,Adkin,-40.808879,175.442648,Summit,NA
 North King,NorthKing,-40.819604,175.443077,Summit,NA
 Middle King,MiddleKing,-40.823569,175.442305,Summit,NA
 Dorset,Dorset,-40.797892,175.426512,Summit,NA
 Dorset Ridge Hut,DorsetHut,-40.807644,175.422392,Hut,NA
 Tarn Ridge Hut,TarnRidgeHut,-40.789829,175.435266,Hut,NA
-Waiohine Pinnacles,WaiohinePinnacles,-40.764399,175.43149,Summit,CSK
+Waiohine Pinnacles,WaiohinePinnacles,-40.764399,175.43149,Summit,CSK,F
 Arete Forks Hut,AreteForks,-40.764985,175.455608,Hut,NA
 Cow Creek Hut,CowCreek,-40.777213,175.491142,Hut,SKV
 Te Mara,TeMara,-40.799452,175.512428,Summit,NA
@@ -116,8 +116,8 @@ Waingawa,Waingawa,-40.755975,175.474749,Summit,NA
 Bannister,Bannister,-40.744784,175.45681,Summit,NA
 1434,1434,-40.744068,175.439644,Summit,CSK
 Arete Hut,AreteHut,-40.748753,175.437069,Hut,NA
-Arete,Arete,-40.74641,175.433636,Summit,NA
-Pukematawai,Pukematawai,-40.745955,175.424023,Summit,NA
+Arete,Arete,-40.74641,175.433636,Summit,NA,T
+Pukematawai,Pukematawai,-40.745955,175.424023,Summit,NA,F
 Butcher Knob,Butcher,-40.753958,175.401278,Summit,NA
 Dracophyllum Biv,Drac,-40.769766,175.389519,Hut,NA
 Puketoro,Puketoro,-40.779522,175.382481,Summit,NA
@@ -139,7 +139,7 @@ Richards Knob,RichardsKnob,-40.726994,175.371838,Summit
 Ohau Bridge,OhauBridge,-40.681092,175.384712,Junction
 WaiopehuJunction,WaiopehuJctn,-40.681873,175.370722,Junction
 WaiopehuHut,WaiopehuHut,-40.726473,175.357075,Hut
-PoadsRoad,PoadsRoad,-40.660316,175.359306,Roadend
+Poads Road,PoadsRoad,-40.660316,175.359306,Roadend,NA,T
 Kelleher,Kelleher,-40.784589,175.376472,Summit
 Harris Creek Bridge,HarrisCreekBridge,-40.668898,175.465651,Junction
 Mangahao Dam,MangahaoDam,-40.62615,175.47801,Roadend
@@ -154,13 +154,13 @@ RoaringStagHut,RoaringStagHut,-40.731017,175.52453,Hut,SKV:CSK
 CleftCreekJunction,CleftCreekJunction,-40.757891,175.514059,Junction,SKV
 Pukekino,Pukekino,-40.741429,175.48934,Summit,NA
 MtBruce,MtBruce,-40.760753,175.601606,Roadend,NA
-770Junction,770Junction,-40.700681,175.532169,Junction,SKV:CSK
+770Junction,770Junction,-40.690681,175.55,Junction,NA
 Herepai,Herepai,-40.687201,175.514402,Summit,CSK
 Ruapae,Ruapae,-40.688504,175.502386,Summit,CSK
 East Peak,EastPeak,-40.695211,175.497837,Summit,CSK
 West Peak,WestPeak,-40.693453,175.484705,Summit,CSK
 Pukemoremore,Pukemoremore,-40.710773,175.46771,Summit,CSK
-Putara,Putara,-40.681079,175.548391,Roadend,SKV:CSK:TSK
+Putara,Putara,-40.671079,175.55,Roadend,SKV:CSK:TSK,T
 Kareti,Kareti,-40.674305,175.506678,Summit,NA
 Ngapuketurua,Ngapuketurua,-40.661081,175.500927,Summit,NA
 BurnHutJctn,BurnHutJctn,-40.630458,175.520496,Junction,NA
@@ -176,6 +176,6 @@ KapakapanuiHut,KapakapanuiHut,-40.916731,175.155373,Hut,NA
 Ngatiawa,Ngatiawa,-40.91515,175.123701,Roadend,NA
 Waiotauru Hut,WaiotauruHut,-40.939118,175.185242,Hut,NA
 Waiotauru Forks,WaiotauruForks,-40.918395,175.207987,Junction,NA
-OtakiForks,OtakiForks,-40.883405,175.215368,Roadend,NA
+Otaki Forks,OtakiForks,-40.883405,175.215368,Roadend,NA,T
 Pukeatua,Pukeatua,-40.903986,175.180349,Summit,NA
 Mangaone,Mangaone,-40.876846,175.133657,Roadend,NA
